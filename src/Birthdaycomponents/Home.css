@@ -1,0 +1,41 @@
+body{
+
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(67,76,196,1) 100%);
+}
+#main{
+    height: 600px;
+    width: 400px;
+    margin-left: 38%;
+    background-color: white;
+    border-radius: 20px;
+}
+#details{
+    height: 100px;
+    width: 400px;
+    display: flex;
+}
+#image{
+    height: 100px;
+    width: 20%;
+}
+#info{
+    height: 100px;
+    width: 80%;
+    padding-left: 50px;
+}
+img{
+    height: 100px;
+    width: 130%;
+    border-radius: 50%;
+}
+button{
+    margin-left: 47%;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+}
